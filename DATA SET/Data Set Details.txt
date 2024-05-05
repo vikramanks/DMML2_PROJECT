@@ -1,0 +1,5 @@
+The IMDB-WIKI dataset
+
+Dataset contains 62,329 Images.
+
+Link:- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
